@@ -118,7 +118,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn shap joblib ucimlrepo s
 - **Visualizations:** ROC curves comparing all models
 - **Best Parameters:** Optimized hyperparameters printed to console
 
-## 📈 Model Performance
+## Model Performance
 
 The notebook trains and evaluates three models:
 
